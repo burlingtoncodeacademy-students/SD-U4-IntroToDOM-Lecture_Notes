@@ -45,12 +45,14 @@
             ~ textContent would return "Hello World".
 */
 
+
 /* 
     Chain of Events:
     1. Create our element
     2. Apply our value
     3. Place our element
 */
+
 
 /* 
 !  Finding Elements
@@ -71,6 +73,8 @@
     - getElementsByClassName()
 */
 
+
+
 /* 
 *   .querySelector()
         - Grabs first instance of an element or null if nothing found.
@@ -79,8 +83,11 @@
             - will need to append . for Class
 */
 
+
 /* 
     .querySelectorAll()
         - Returns a static nodeList (an array) list of elements.
         * static: will not update
 */
+
+
